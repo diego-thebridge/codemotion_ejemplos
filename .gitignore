@@ -1,0 +1,29 @@
+.env
+__pycache__
+*.pyc
+CrewAI_SEO/__pycache__/seo_core.cpython-311.pyc
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
